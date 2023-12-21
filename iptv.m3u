@@ -57,6 +57,24 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001028/index.m3u8
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://live.fanmingming.com/tv/山东新闻.png" group-title="卫视频道",山东新闻
+http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.flv
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.fanmingming.com/tv/山东齐鲁.png" group-title="卫视频道",山东齐鲁
+http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.flv
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.fanmingming.com/tv/山东农科.png" group-title="卫视频道",山东农科
+http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.flv
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="卫视频道",山东生活
+http://livealone.iqilu.com/iqilu/shpdhjOF03kn.flv
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.com/tv/山东文旅.png" group-title="卫视频道",山东文旅
+http://livealone.iqilu.com/iqilu/yspdhjOF03kn.flv
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png" group-title="卫视频道",山东综艺
+http://livealone.iqilu.com/iqilu/zypdhjOF03kn.flv
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="卫视频道",山东体育
+http://livealone.iqilu.com/iqilu/typdhjOF03kn.flv
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="卫视频道",山东少儿
+http://livealone.iqilu.com/iqilu/sepdhjOF03kn.flv
+#EXTINF:-1 tvg-name="山东高密农科" tvg-logo="https://live.fanmingming.com/tv/山东高密农科.png" group-title="卫视频道",山东高密农科
+http://alivealone.litenews.cn/71/202304_1651887494448484352.flv
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
